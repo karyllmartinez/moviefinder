@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviefinder/static/css/main.334bdeb1.css",
-    "main.js": "/moviefinder/static/js/main.9c4f73a8.js",
+    "main.js": "/moviefinder/static/js/main.58d03ca4.js",
     "index.html": "/moviefinder/index.html",
     "static/media/search.svg": "/moviefinder/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
     "main.334bdeb1.css.map": "/moviefinder/static/css/main.334bdeb1.css.map",
-    "main.9c4f73a8.js.map": "/moviefinder/static/js/main.9c4f73a8.js.map"
+    "main.58d03ca4.js.map": "/moviefinder/static/js/main.58d03ca4.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.9c4f73a8.js"
+    "static/js/main.58d03ca4.js"
   ]
 }
